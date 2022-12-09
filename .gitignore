@@ -1,3 +1,14 @@
+
+main() {                                                
+ <<<<<<< HEAD                                     
+ print("Hello, world!");                               
+ =======                                                 
+ print("Olá, mundo!");                                 
+ >>>>>>> f25bce8fea85a625b891c890a8eca003b723f21b 
+ }                                                       
+
+
+
 # Compiled class file
 *.class
 
